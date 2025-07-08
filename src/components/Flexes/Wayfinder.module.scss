@@ -1,0 +1,16 @@
+@import "styles/settings/__settings";
+
+@import "styles/components/_container";
+
+.Wayfinder {
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    .titleWrap {
+        display: grid;
+    }
+    .gridWrap {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
