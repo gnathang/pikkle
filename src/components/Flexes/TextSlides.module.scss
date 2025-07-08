@@ -1,0 +1,23 @@
+@import "styles/settings/__settings";
+
+.text_slides {
+    color: #00705A;
+    background-color: $offwhite;
+    padding: 10rem 0;
+    text-align: center;
+    width: 100vw;
+    .text_slide {
+        display: grid;
+        grid-template-columns: 1fr 2fr 1fr;
+        gap: 60px;
+        :first-child {
+            justify-self: end;
+        }
+        .teal_jar {
+            transform: translateY(12rem);
+        }
+        .blue_jar {
+            transform: translateY(-6rem);
+        }
+    }
+}

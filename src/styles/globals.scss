@@ -1,0 +1,89 @@
+@import "styles/settings/__settings";
+@import "style.css";
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "obviously", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+h1, h2, h3, h4, h5, h6, p {
+  -webkit-font-smoothing: antialiased;
+  margin-bottom: 1rem;
+}
+
+h1 {
+
+}
+
+h2 {
+  font-size: 50px;
+  line-height: 3rem;
+  margin-top: 0rem;
+}
+
+h4 {
+  font-size: 22px;
+  line-height: normal;
+  font-weight: 100;
+  color: black;
+}
+
+h6 {
+  color: $pink;
+  font-size: 16px;
+  margin-top: 0rem;
+}
+
+p {
+  line-height: 1.6;
+  margin: 1.2em 0;
+}
+
+ul {
+  padding-left: 1.2em;
+}
+
+a {
+  color: $color-primary;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+input {
+  &[type="text"],
+  &[type="search"],
+  &[type="email"] {
+    outline-offset: 0;
+    padding: 0.5em 0.8em;
+  }
+}
+
+figcaption {
+  color: $color-gray-500;
+  font-size: 0.9em;
+  text-align: center;
+  font-style: italic;
+  margin-top: 0.6em;
+}
+
+.sr-only {
+  display: block;
+  overflow: hidden;
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+  width: 0;
+  height: 0;
+}

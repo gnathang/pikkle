@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Pikkle]]></title>
+        <description><![CDATA[Pikkle]]></description>
+        <link>https://next-wordpress-starter.spacejelly.dev</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 26 Jun 2024 08:06:21 GMT</lastBuildDate>
+        <atom:link href="https://next-wordpress-starter.spacejelly.dev/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 26 Jun 2024 08:06:21 GMT</pubDate>
+        <copyright><![CDATA[2024 Pikkle]]></copyright>
+        <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Branded house vs House of brands]]></title>
+            <description><![CDATA[&nbsp; In a Branded House strategy, the company has a single master brand that is used across all of its&#8230;
+]]></description>
+            <link>https://next-wordpress-starter.spacejelly.dev/posts/lorem-ipsum-2</link>
+            <guid isPermaLink="false">https://next-wordpress-starter.spacejelly.dev/posts/lorem-ipsum-2</guid>
+            <category><![CDATA[Brand]]></category>
+            <dc:creator><![CDATA[admin]]></dc:creator>
+            <pubDate>Mon, 02 Oct 2023 12:09:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What do we mean by brand?]]></title>
+            <description><![CDATA[&nbsp; &nbsp; &nbsp;
+]]></description>
+            <link>https://next-wordpress-starter.spacejelly.dev/posts/lorem-ipsum</link>
+            <guid isPermaLink="false">https://next-wordpress-starter.spacejelly.dev/posts/lorem-ipsum</guid>
+            <category><![CDATA[Brand]]></category>
+            <dc:creator><![CDATA[admin]]></dc:creator>
+            <pubDate>Mon, 02 Oct 2023 11:57:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The importance of stakeholder engagement]]></title>
+            <description><![CDATA[At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et&#8230;
+]]></description>
+            <link>https://next-wordpress-starter.spacejelly.dev/posts/at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus</link>
+            <guid isPermaLink="false">https://next-wordpress-starter.spacejelly.dev/posts/at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus</guid>
+            <category><![CDATA[Brand]]></category>
+            <dc:creator><![CDATA[admin]]></dc:creator>
+            <pubDate>Fri, 08 Sep 2023 08:11:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What do we mean by Brand?]]></title>
+            <description><![CDATA[If we can define what a brand is, we can begin to understand why some are so successful over others.
+]]></description>
+            <link>https://next-wordpress-starter.spacejelly.dev/posts/what-do-we-mean-by-brand</link>
+            <guid isPermaLink="false">https://next-wordpress-starter.spacejelly.dev/posts/what-do-we-mean-by-brand</guid>
+            <category><![CDATA[Brand]]></category>
+            <category><![CDATA[Insights]]></category>
+            <dc:creator><![CDATA[Joe]]></dc:creator>
+            <pubDate>Wed, 21 Jun 2023 07:42:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
